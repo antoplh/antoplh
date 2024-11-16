@@ -20,7 +20,7 @@ Here’s what I bring to the table:
 | -------------- | ----------------- | ---------- | -------- |
 | Python         | SQL               | HTML       | Git      |
 | JavaScript     | Jupyter Notebook  | CSS        | VS Code  |
-| Node.js        | Pandas            | React      | Figma    |
+| Node.js        | Pandas            | React      | Docker    |
 
 ---
 
@@ -32,13 +32,13 @@ Here’s what I bring to the table:
 ---
 
 ## 📈 **My GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antoplh&show_icons=true&theme=radical)  
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antoplh&show_icons=true&theme=radical)  -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antoplh&layout=compact&theme=radical)
 
 ---
 
 ## 🎯 **Let’s Connect!**
-- 💼 **LinkedIn**: [YourLinkedIn](#)
+- 💼 **LinkedIn**: [linkedin.com/in/antonella-portugal-lh]([#](https://www.linkedin.com/in/antonella-portugal-lh/))
 
 ---
 
