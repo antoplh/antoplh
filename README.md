@@ -28,9 +28,9 @@ Here’s what I bring to the table:
 - 🌱 Building dynamic **web apps** with intuitive designs  
 - 📊 Integrating **data-driven insights** into web solutions  
 - 🧩 Collaborating on creative and innovative **open-source projects**
-
----
 <!--
+---
+
 ## 📈 **My GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antoplh&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antoplh&layout=compact&theme=radical)
