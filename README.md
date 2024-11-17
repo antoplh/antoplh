@@ -39,7 +39,7 @@ Here’s what I bring to the table:
 ---
 
 ## 🎯 **Let’s Connect!**
-- 💼 **LinkedIn**: [linkedin.com/in/antonella-portugal-lh]([#](https://www.linkedin.com/in/antonella-portugal-lh/))
+- 💼 **LinkedIn**: [linkedin.com/in/antonella-portugal-lh](https://www.linkedin.com/in/antonella-portugal-lh/)
 
 ---
 
