@@ -5,11 +5,10 @@ Thanks for clicking on my profile! here is a little about me:
 ---
 
 ## 🌟 **About Me**  
-- 🎓 **Data Scientist** looking to complement my skills with **Full-Stack Web Development**  
-- 🛠️ Experienced in **Python**, **SQL**, and **Data Analytics**  
-- 🌐 Passionate about creating impactful **web applications**  
-- 💡 Always exploring the intersections of **data** and **user experience**  
-- 📖 Lifelong learner diving into frameworks like **React**, **Node.js**, and beyond!
+- 🎓 **Data Scientist**, I've used ML models (clustering, classification, regression) to solve real world problems in the field and in my studies
+- I've dabbled in **Full-Stack Web Development**, which is mostly what my Github profile contains  
+- 🛠️ Experienced in **Python**, **SQL**, **Creating Beautiful Dashboards** and **Data Analytics**    
+- 💡 Always exploring the intersections of **data** and **user experience** 
 
 ---
 
@@ -21,13 +20,10 @@ Here’s what I bring to the table:
 | Python         | SQL               | HTML       | Git      |
 | JavaScript     | Jupyter Notebook  | CSS        | VS Code  |
 | Node.js        | Pandas            | React      | Docker    |
+| PySpark      | TensorFlow, SciPy            |       |     |
 
 ---
 
-## 🚀 **What I’m Working On**
-- 🌱 Building dynamic **web apps** with intuitive designs  
-- 📊 Integrating **data-driven insights** into web solutions  
-- 🧩 Collaborating on creative and innovative **open-source projects**
 <!--
 ---
 
