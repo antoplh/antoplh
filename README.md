@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Antonella!
+# About me
 
 Thanks for clicking on my profile! here is a little about me:
 
@@ -7,20 +7,20 @@ Thanks for clicking on my profile! here is a little about me:
 ## 🌟 **About Me**  
 - 🎓 **Data Scientist**, I've used ML models (clustering, classification, regression) to solve real world problems in the field and in my studies
 - I've dabbled in **Full-Stack Web Development**, which is mostly what my Github profile contains  
-- 🛠️ Experienced in **Python**, **SQL**, **Creating Beautiful Dashboards** and **Data Analytics**    
+- 🛠️ Experienced in **Python**, (**Machine Learning**, **SQL**, **Creating Dashboards** and **Data Analytics**    
 - 💡 Always exploring the intersections of **data** and **user experience** 
 
 ---
 
-## 🔧 **Tech Toolbox**
-Here’s what I bring to the table:
+## 🔧 **My Skills**
+
 
 | 💻 Programming | 📊 Data          | 🌐 Web Dev | ✨ Tools |
 | -------------- | ----------------- | ---------- | -------- |
 | Python         | SQL               | HTML       | Git      |
 | JavaScript     | Jupyter Notebook  | CSS        | VS Code  |
 | Node.js        | Pandas            | React      | Docker    |
-| PySpark      | TensorFlow, SciPy            |       |     |
+| PySpark      | TensorFlow, SciPy,Sklearn            |       |     |
 
 ---
 
